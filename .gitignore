@@ -1,0 +1,7 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+data/
+figs/
+old/
+get_spotify_playlists_data.ipynb
+get_spotify_playlists_data.py
